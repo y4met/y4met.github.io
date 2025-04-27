@@ -11,4 +11,4 @@ redirect_from:
 I'm a freshman from [School of CST](https://scie.zjgsu.edu.cn/), [ZHEJIANG GONGSHANG UNIVERSITY](https://www.zjgsu.edu.cn/).
 
 
-[Email](x2250033251@163.com) / [Github](https://github.com/y4met) / [Wechat](../images/wechat.jpg)
+[Github](https://github.com/y4met) / [Wechat](../images/wechat.jpg)
